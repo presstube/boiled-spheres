@@ -17,22 +17,22 @@
           <DOMBitmapItem name="IMG_1706.JPG" itemID="5738abbc-000001c1" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1706.JPG" sourceLastImported="1463330665" sourcePlatform="macintosh" externalFileSize="1903195" allowSmoothing="true" quality="50" href="IMG_1706.JPG" bitmapDataHRef="M 15 1463330944.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
           <DOMBitmapItem name="IMG_1707.JPG" itemID="5738abbc-000001c2" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1707.JPG" sourceLastImported="1463330676" sourcePlatform="macintosh" externalFileSize="1814470" allowSmoothing="true" quality="50" href="IMG_1707.JPG" bitmapDataHRef="M 16 1463330944.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
           <DOMBitmapItem name="IMG_1708.JPG" itemID="5738abbc-000001c3" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1708.JPG" sourceLastImported="1463330685" sourcePlatform="macintosh" externalFileSize="1854062" allowSmoothing="true" quality="50" href="IMG_1708.JPG" bitmapDataHRef="M 17 1463330945.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1713.JPG" itemID="573922d2-000000a4" sourceExternalFilepath="./LIBRARY/IMG_1713.JPG" sourceLastImported="1463361007" sourcePlatform="macintosh" externalFileSize="2081874" allowSmoothing="true" quality="50" href="IMG_1713.JPG" bitmapDataHRef="M 18 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1714.JPG" itemID="573922d2-000000a5" sourceExternalFilepath="./LIBRARY/IMG_1714.JPG" sourceLastImported="1463361020" sourcePlatform="macintosh" externalFileSize="2058397" allowSmoothing="true" quality="50" href="IMG_1714.JPG" bitmapDataHRef="M 19 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1715.JPG" itemID="573922d2-000000a6" sourceExternalFilepath="./LIBRARY/IMG_1715.JPG" sourceLastImported="1463361035" sourcePlatform="macintosh" externalFileSize="2105473" allowSmoothing="true" quality="50" href="IMG_1715.JPG" bitmapDataHRef="M 20 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1716.JPG" itemID="573922d2-000000a7" sourceExternalFilepath="./LIBRARY/IMG_1716.JPG" sourceLastImported="1463361044" sourcePlatform="macintosh" externalFileSize="2010756" allowSmoothing="true" quality="50" href="IMG_1716.JPG" bitmapDataHRef="M 21 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1717.JPG" itemID="573922d2-000000a8" sourceExternalFilepath="./LIBRARY/IMG_1717.JPG" sourceLastImported="1463361052" sourcePlatform="macintosh" externalFileSize="1951423" allowSmoothing="true" quality="50" href="IMG_1717.JPG" bitmapDataHRef="M 22 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1718.JPG" itemID="573922d2-000000a9" sourceExternalFilepath="./LIBRARY/IMG_1718.JPG" sourceLastImported="1463361063" sourcePlatform="macintosh" externalFileSize="2010281" allowSmoothing="true" quality="50" href="IMG_1718.JPG" bitmapDataHRef="M 23 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1719.JPG" itemID="573922d2-000000aa" sourceExternalFilepath="./LIBRARY/IMG_1719.JPG" sourceLastImported="1463361075" sourcePlatform="macintosh" externalFileSize="2105052" allowSmoothing="true" quality="50" href="IMG_1719.JPG" bitmapDataHRef="M 24 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1720.JPG" itemID="573922d2-000000ab" sourceExternalFilepath="./LIBRARY/IMG_1720.JPG" sourceLastImported="1463361085" sourcePlatform="macintosh" externalFileSize="2151023" allowSmoothing="true" quality="50" href="IMG_1720.JPG" bitmapDataHRef="M 25 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1721.JPG" itemID="573922d2-000000ac" sourceExternalFilepath="./LIBRARY/IMG_1721.JPG" sourceLastImported="1463361101" sourcePlatform="macintosh" externalFileSize="2320392" allowSmoothing="true" quality="50" href="IMG_1721.JPG" bitmapDataHRef="M 26 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
-          <DOMBitmapItem name="IMG_1722.JPG" itemID="573922d2-000000ad" sourceExternalFilepath="./LIBRARY/IMG_1722.JPG" sourceLastImported="1463361113" sourcePlatform="macintosh" externalFileSize="2065517" allowSmoothing="true" quality="50" href="IMG_1722.JPG" bitmapDataHRef="M 27 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1713.JPG" itemID="573922d2-000000a4" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1713.JPG" sourceLastImported="1463361007" sourcePlatform="macintosh" externalFileSize="2081874" allowSmoothing="true" quality="50" href="IMG_1713.JPG" bitmapDataHRef="M 18 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1714.JPG" itemID="573922d2-000000a5" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1714.JPG" sourceLastImported="1463361020" sourcePlatform="macintosh" externalFileSize="2058397" allowSmoothing="true" quality="50" href="IMG_1714.JPG" bitmapDataHRef="M 19 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1715.JPG" itemID="573922d2-000000a6" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1715.JPG" sourceLastImported="1463361035" sourcePlatform="macintosh" externalFileSize="2105473" allowSmoothing="true" quality="50" href="IMG_1715.JPG" bitmapDataHRef="M 20 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1716.JPG" itemID="573922d2-000000a7" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1716.JPG" sourceLastImported="1463361044" sourcePlatform="macintosh" externalFileSize="2010756" allowSmoothing="true" quality="50" href="IMG_1716.JPG" bitmapDataHRef="M 21 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1717.JPG" itemID="573922d2-000000a8" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1717.JPG" sourceLastImported="1463361052" sourcePlatform="macintosh" externalFileSize="1951423" allowSmoothing="true" quality="50" href="IMG_1717.JPG" bitmapDataHRef="M 22 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1718.JPG" itemID="573922d2-000000a9" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1718.JPG" sourceLastImported="1463361063" sourcePlatform="macintosh" externalFileSize="2010281" allowSmoothing="true" quality="50" href="IMG_1718.JPG" bitmapDataHRef="M 23 1463361269.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1719.JPG" itemID="573922d2-000000aa" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1719.JPG" sourceLastImported="1463361075" sourcePlatform="macintosh" externalFileSize="2105052" allowSmoothing="true" quality="50" href="IMG_1719.JPG" bitmapDataHRef="M 24 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1720.JPG" itemID="573922d2-000000ab" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1720.JPG" sourceLastImported="1463361085" sourcePlatform="macintosh" externalFileSize="2151023" allowSmoothing="true" quality="50" href="IMG_1720.JPG" bitmapDataHRef="M 25 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1721.JPG" itemID="573922d2-000000ac" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1721.JPG" sourceLastImported="1463361101" sourcePlatform="macintosh" externalFileSize="2320392" allowSmoothing="true" quality="50" href="IMG_1721.JPG" bitmapDataHRef="M 26 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
+          <DOMBitmapItem name="IMG_1722.JPG" itemID="573922d2-000000ad" sourceExternalFilepath="../boiled-spheres/LIBRARY/IMG_1722.JPG" sourceLastImported="1463361113" sourcePlatform="macintosh" externalFileSize="2065517" allowSmoothing="true" quality="50" href="IMG_1722.JPG" bitmapDataHRef="M 27 1463361270.dat" frameRight="48960" frameBottom="48960" isJPEG="true"/>
      </media>
      <symbols>
           <Include href="colored-ball.xml" loadImmediate="false" itemID="5738e099-00000016" lastModified="1463348127"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="14">
+          <DOMTimeline name="Scene 1" currentFrame="8">
                <layers>
                     <DOMLayer name="Layer 1" color="#4F80FF">
                          <frames>
@@ -41,7 +41,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 7" color="#669900" visible="false">
+                    <DOMLayer name="Layer 7" color="#669900">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements/>
@@ -2162,7 +2162,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 2" color="#9933CC" parentLayerIndex="4" locked="true" autoNamed="false">
+                    <DOMLayer name="Layer 2" color="#9933CC" parentLayerIndex="4" locked="true" autoNamed="false" visible="false">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
